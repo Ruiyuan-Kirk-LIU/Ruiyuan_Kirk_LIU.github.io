@@ -16,8 +16,10 @@ I am supervised by [Dr. Shinichiro Maruyama](https://www.ib.k.u-tokyo.ac.jp/engl
 **My academic interests mainly lie in:**  
 · Diversity of coral symbiotic algae  
 · Phototaxis of zooxanthellae and its effects on symbiosis establishment  
-· Signal transduction and immune mechanisms between symbiont algae and their cnidarian hosts  
+· Signal transduction and immune mechanisms between symbiont algae and cnidarian hosts  
 · How coral-algal symbioses adapt and acclimate to global climate and environmental changes  
+
+My non-academic interests are _Diving_ and _Hiking_. I find joy in the unique scenery of these trips, and the beauty of nature profoundly inspires my research.
 
 Click here to see my complete [CV](../assets/Curriculum_Vitae.pdf)
 
