@@ -12,8 +12,8 @@ title                    : "Yuxin Liu / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Ruiyuan Kirk Liu"
 description              : &description "PhD Student at UTokyo"
-url                      : https://ruiyuan-kirk-liu.github.io/Ruiyuan_Kirk_LIU.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : https://Ruiyuan-Kirk-Liu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g., "/blog"
 repository               : "Ruiyuan-Kirk-LIU/Ruiyuan_Kirk_LIU.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -21,7 +21,7 @@ repository               : "Ruiyuan-Kirk-LIU/Ruiyuan_Kirk_LIU.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Ruiyuan.png"
   name             : "Ruiyuan Kirk Liu"
   pronouns         : # example: "he/him"  
   bio              : "PhD Student at UTokyo"
