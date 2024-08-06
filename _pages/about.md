@@ -21,4 +21,4 @@ I am supervised by [Dr. Shinichiro Maruyama](https://www.ib.k.u-tokyo.ac.jp/engl
 
 Click here to see my complete [CV](../assets/Curriculum_Vitae.pdf)
 
-[Email](ruiyuanliu0723@gmail.com / [Github](https://github.com/Ruiyuan-Kirk-LIU) / [LinkedIn](https://www.linkedin.com/in/yuxin-liu-699451270/) / [X(Twitter)](https://x.com/ruiyuan_liu)
+[Email](ruiyuanliu0723@gmail.com) / [Github](https://github.com/Ruiyuan-Kirk-LIU) / [LinkedIn](https://www.linkedin.com/in/yuxin-liu-699451270/) / [X(Twitter)](https://x.com/ruiyuan_liu)
