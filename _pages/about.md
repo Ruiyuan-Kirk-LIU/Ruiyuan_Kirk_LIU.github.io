@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Where there is an ocean, a marine biologist is never on holiday"
 author_profile: true
 redirect_from: 
   - /about/
