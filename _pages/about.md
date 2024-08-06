@@ -14,10 +14,10 @@ I am a PhD student at [Graduate School of Frontier Sciences](https://www.k.u-tok
 I am supervised by [Dr. Shinichiro Maruyama](https://www.ib.k.u-tokyo.ac.jp/english/faculty/integrated_biology/maruyama_shinichiro/) of the [Laboratory of Integrated Biology](https://park.itc.u-tokyo.ac.jp/matsunaga_lab/index.html). I received my bachelor's degree in Marine Resources and Environment (advisor: [Dr. Jingyu Li](https://scxy.ouc.edu.cn/zlxyzlyzyjs/list.htm)) from the Ocean University of China in 2020. Then, I worked as a research assistant at the [Chloroplast Systems and Synthetic Biology Laboratory](https://en.westlake.edu.cn/faculty/xiaobo-li.html), Westlake University. Before coming to UTokyo, I obtained a master's degree in Applied Marine Biology (advisor: [Dr. Masakazu Aoki](https://sites.google.com/view/tohoku-marine-plant-ecology/%E3%83%9B%E3%83%BC%E3%83%A0?authuser=0)) from Tohoku University in 2022.
 
 **My academic interests mainly lie in:**
-· Diversity of coral symbiotic algae
-· Phototaxis of zooxanthellae and its effects on symbiosis establishment
-· Signal transduction and immune mechanisms between symbiont algae and their cnidarian hosts
-· How coral-algal symbioses adapt and acclimate to global climate and environmental changes
+Diversity of coral symbiotic algae
+Phototaxis of zooxanthellae and its effects on symbiosis establishment
+Signal transduction and immune mechanisms between symbiont algae and their cnidarian hosts
+How coral-algal symbioses adapt and acclimate to global climate and environmental changes
 
 Click here to see my complete [CV](../assets/Curriculum_Vitae.pdf)
 
