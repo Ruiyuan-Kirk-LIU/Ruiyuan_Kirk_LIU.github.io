@@ -21,7 +21,7 @@ repository               : "Ruiyuan-Kirk-LIU/Ruiyuan_Kirk_LIU.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Ruiyuan.png"
+  avatar           : "profile.png"
   name             : "Ruiyuan Kirk Liu"
   pronouns         : # example: "he/him"  
   bio              : "PhD Student at UTokyo"
@@ -65,7 +65,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "@ruiyuan_liu"
+  twitter          : #"@ruiyuan_liu"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
