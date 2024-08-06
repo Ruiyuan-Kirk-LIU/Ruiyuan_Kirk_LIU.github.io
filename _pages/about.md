@@ -21,6 +21,6 @@ I am supervised by [Dr. Shinichiro Maruyama](https://www.ib.k.u-tokyo.ac.jp/engl
 
 My non-academic interests are _Diving_ and _Hiking_. I find joy in the unique scenery of these trips, and the beauty of nature profoundly inspires my research.
 
-Click here to see my complete [CV](../assets/Curriculum_Vitae.pdf)
+Click here to see my complete [CV](../assets/CV - Yuxin Liu.pdf)
 
 [Email](ruiyuanliu0723@gmail.com) / [Github](https://github.com/Ruiyuan-Kirk-LIU) / [LinkedIn](https://www.linkedin.com/in/yuxin-liu-699451270/) / [X(Twitter)](https://x.com/ruiyuan_liu)
